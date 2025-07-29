@@ -16,7 +16,7 @@ When I’m not deep in YAML or Terraform files, I’m usually exploring new tool
 
 I care about strong documentation, thoughtful design, and building infrastructure that works quietly in the background — **reliably, repeatedly, and at scale**
 
-[📎 Learn more about me →](https://linkedin.com/in/ikramkirmani)
+[ Learn more about me →](https://linkedin.com/in/ikramkirmani)
 
 ---
 
