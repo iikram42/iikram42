@@ -1,6 +1,6 @@
 ## 👋 Hey, I'm **Syed Ikramuddin Kirmani**, a Cloud / DevOps Engineer
 
-Over the past year, I’ve helped teams build infrastructure that’s not just functional, but fast, secure, and scalable. From deploying full-stack AI-powered apps on **EKS** to automating **CI/CD** pipelines with &**GitHub Actions** and cutting cloud costs by cleaning up idle resources — I thrive on making complex systems simpler and more efficient.
+Over the past year, I’ve helped teams build infrastructure that’s not just functional, but fast, secure, and scalable. From deploying full-stack AI-powered apps on **EKS** to automating **CI/CD** pipelines with &**GitHub Actions** and cutting cloud costs by cleaning up idle resources I thrive on making complex systems simpler and more efficient.
 
 I work across **AWS, Azure, and GCP,** using **Terraform** for infrastructure provisioning, **Ansible** for automation, and **GitOps/DevSecOps** to ensure secure and reliable deployments.
 
@@ -14,7 +14,7 @@ Systems that are secure, observable, and resilient
 
 When I’m not deep in YAML or Terraform files, I’m usually exploring new tools, hacking together containerized side projects, or learning how to break (and fix) systems more effectively.
 
-I care about strong documentation, thoughtful design, and building infrastructure that works quietly in the background — **reliably, repeatedly, and at scale**
+I care about strong documentation, thoughtful design, and building infrastructure that works quietly in the background **reliably, repeatedly, and at scale**
 
 [ Learn more about me →](https://linkedin.com/in/ikramkirmani)
 
