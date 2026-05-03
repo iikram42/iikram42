@@ -4,7 +4,7 @@ Over the past year, I’ve helped teams build infrastructure that’s not just f
 
 I work across **AWS, Azure, and GCP,** using **Terraform** for infrastructure provisioning, **Ansible** for automation, and **GitOps/DevSecOps** to ensure secure and reliable deployments.
 
-Whether it’s building auto-scaling **Kubernetes clusters, integrating monitoring with Prometheus and Grafana,** or locking down pipelines with policy-as-code — I focus on:
+Whether it’s building auto-scaling **Kubernetes clusters, integrating monitoring with Prometheus and Grafana,** or locking down pipelines with policy-as-code  I focus on:
 
 Automation that’s clean and reusable
 
